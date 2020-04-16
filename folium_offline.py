@@ -52,7 +52,7 @@ def set_offline(file_path):
         ('jquery',
          f'{os.path.join(file_path, "jquery-1.12.4.min.js")}'),
         ('bootstrap',
-         f'{os.path.join(file_path, "offline/bootstrap.min.js")}'),
+         f'{os.path.join(file_path, "bootstrap.min.js")}'),
         ('awesome_markers',
          f'{os.path.join(file_path, "leaflet.awesome-markers.js")}'),
         ('sql',
