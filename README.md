@@ -1,4 +1,4 @@
-##Usage
+## Usage
 
 ### folium_offline.py
 Starter script to build offline maps with Folium.
